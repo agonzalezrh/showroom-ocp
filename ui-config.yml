@@ -2,4 +2,4 @@
 type: showroom
 tabs:
  - name: OCP
-   url: https://console-openshift-console.apps.${guid}.${sandbox_openshift_apps_domain}
+   url: https://console-openshift-console.${domain}
