@@ -1,5 +1,7 @@
 ---
 type: showroom
 tabs:
- - name: OCP
-   url: https://console-openshift-console.${domain}
+- name: OCP
+  url: https://console-openshift-console.${domain}
+- name: RHODS
+  url: https://rhods-dashboard-redhat-ods-applications.${domain}/
